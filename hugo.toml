@@ -1,3 +1,4 @@
 baseURL = 'https://paride5745.github.io/'
 languageCode = 'en-us'
 title = 'Website of Paride'
+theme = 'hugo-xterm'
