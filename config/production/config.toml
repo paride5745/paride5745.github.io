@@ -1,5 +1,6 @@
 [params]
   centerTheme = true
+  showMenuItems = true
   showBreadCrumbs = true
   toc = true
 
