@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "About P. Paride Martino."
+description = "About me."
 toc = false
 +++
 

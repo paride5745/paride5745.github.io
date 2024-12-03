@@ -14,18 +14,12 @@
     [languages.en.params.logo]
       logoText = "Home"
 
-    [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "cv"
-        name = "CV"
-        url = "/cv/"
+        identifier = "about"
+        name = "About"
+        url = "/about/"
 
       [[languages.en.menu.main]]
         identifier = "posts"
         name = "Posts"
         url = "/posts/"
-
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about/"
