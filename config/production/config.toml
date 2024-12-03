@@ -15,11 +15,6 @@
       logoText = "Home"
 
       [[languages.en.menu.main]]
-        identifier = "mastodon"
-        name = "Mastodon"
-        url = "https://babka.social/@paride5745"
-
-      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
