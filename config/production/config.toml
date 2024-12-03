@@ -1,2 +1,30 @@
 [params]
   centerTheme = true
+  showBreadCrumbs = true
+  toc = true
+
+  [languages]
+  [languages.en.params]
+    copyright = "© Paolo Paride Martino"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Home"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        name = "CV"
+        url = "/cv/"
+
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
