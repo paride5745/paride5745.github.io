@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About me"
 description = "About me."
 toc = false
 +++
