@@ -2,7 +2,7 @@
 title = "A brief history of Linux"
 description = """A brief history of Linux"""
 draft = false
-date = "2024-09-21T12:34:56+0530"
+date = "2024-09-21T12:34:56+0100)"
 author = "P. Paride Martino"
 tags = ["linux", "history"]
 categories = ["linux", "history"]

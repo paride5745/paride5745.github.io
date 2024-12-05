@@ -2,7 +2,7 @@
 title = "Go code with ChatGPT"
 description = """Using AI to write idiomatic Go"""
 draft = false
-date = "2024-09-23T12:34:56+0530"
+date = "2024-09-23T12:34:56+0100"
 author = "P. Paride Martino"
 tags = ["go", "golang","chatgpt","ai"]
 categories = ["coding", "go", "ai"]

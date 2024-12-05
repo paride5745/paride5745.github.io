@@ -2,7 +2,7 @@
 title = "Manpages"
 description = """The OG Unix documentation"""
 draft = false
-date = "2024-09-22T12:34:56+0530"
+date = "2024-09-22T12:34:56+0100"
 author = "P. Paride Martino"
 tags = ["linux", "unix","documentation","manpages"]
 categories = ["linux", "documentation"]
