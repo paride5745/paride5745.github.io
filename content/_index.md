@@ -1,6 +1,6 @@
 +++
-title = "About me"
-description = "About me."
+title = "P. Paride Martino"
+description = "Linux System Engineer | Cloud Engineer | DevOps | SRE | Linux Evangelist"
 toc = false
 +++
 
